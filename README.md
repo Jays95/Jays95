@@ -18,6 +18,9 @@
   
     
   
+  
+    
+  
 
 
 
@@ -57,6 +60,13 @@
 
 
 
+📌 Pinned Repositories
+
+  
+  
+
+
+
 🔝 Top Contributed Repos
 
   
@@ -64,6 +74,12 @@
 
 
 📅 Recent Activity
+
+  
+
+
+
+💡 Coding Quote
 
   
 
