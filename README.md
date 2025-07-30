@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Matrix Coding Animation"/>
 </div>
 
-# About Me
+# About Me 🌌
 🚀 I'm passionate about **structure and innovation**, building **Flask-based AI applications** to create engaging user experiences.  
 🧠 I excel at breaking down complex problems into elegant solutions.  
 ⚾ Off the keyboard, you’ll find me watching baseball or perfecting my swing.
@@ -15,13 +15,13 @@
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jayson-ranck-88a1a5253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" width="150"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F76308?style=for-the-badge&logo=web&logoColor=white&labelColor=F76308" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-F76308?style=for-the-badge&logo=web&logoColor=white&labelColor=F76308" width="150"/>
   </a>
   <a href="https://x.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" width="150"/>
   </a>
 </p>
 <br/>
@@ -42,32 +42,36 @@
 </p>
 <p align="center">
   <!-- Fallback Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" width="100"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="100"/>
 </p>
 <br/>
 
 ## Skills Proficiency
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-F76308?style=flat-square&logo=python" alt="Python Proficiency"/>
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Flask','React','Docker'],datasets:[{data:[90,85,80,75],backgroundColor:['#F76308','#000000','#61DAFB','#2496ED']}],options:{plugins:{legend:{labels:{font:{family:'Poppins',size:12}}}}}}" width="350" alt="Skills Pie Chart"/>
   <br/>
-  <img src="https://img.shields.io/badge/Flask-85%25-F76308?style=flat-square&logo=flask" alt="Flask Proficiency"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-80%25-F76308?style=flat-square&logo=react" alt="React Proficiency"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-75%25-F76308?style=flat-square&logo=docker" alt="Docker Proficiency"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jays95&theme=github-dark-dimmed&hide_border=true&area=true" width="350" alt="GitHub Activity Graph"/>
 </p>
 <br/>
 
-## Project Spotlight
+## Projects
 <p align="center">
-  <a href="https://github.com/Jays95/your-flask-ai-app" target="_blank">
-    <img src="https://img.shields.io/badge/Flask_AI_App-F76308?style=for-the-badge&logo=flask&logoColor=white" alt="Flask AI App"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-flask-ai-app&theme=github_dark&show_owner=true&border_radius=10" width="350"/>
   <br/>
-  <em>Building an innovative AI-powered web app with Flask to enhance user engagement.</em>
+  <em>Flask AI App: An innovative AI-powered web app built with Flask to enhance user engagement.</em>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-second-repo&theme=github_dark&show_owner=true&border_radius=10" width="350"/>
+  <br/>
+  <em>React Dashboard: A responsive dashboard built with React and Tailwind CSS for real-time data visualization.</em>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-third-repo&theme=github_dark&show_owner=true&border_radius=10" width="350"/>
+  <br/>
+  <em>Dockerized API: A scalable REST API deployed with Docker, integrated with Supabase.</em>
 </p>
 <br/>
 
@@ -97,13 +101,6 @@
 </p>
 <br/>
 
-## Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jays95&theme=github-dark-dimmed&hide_border=true&area=true" width="350"/>
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','JavaScript','HTML','Others'],datasets:[{data:[60,20,10,10],backgroundColor:['#F76308','#61DAFB','#E34F26','#666666']}],options:{plugins:{legend:{labels:{font:{family:'Poppins',size:12}}}}}}" width="350" alt="Top Languages Pie Chart"/>
-</p>
-<br/>
-
 ## Coding Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+poetry%3B+it’s+not+about+what+it+does%2C+but+how+it’s+written." width="600"/>
@@ -119,9 +116,9 @@
 ## Support Me
 <p align="center">
   <a href="https://paypal.me/jayson.ranckjay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="350"/>
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="150"/>
   </a>
 </p>
 <br/>
 
-<!-- Made with ❤️ by Jayson | Powered by AI Innovation -->
+<!-- Made with ❤️ by Jayson | Powered by AI Innovation 🌌 -->
