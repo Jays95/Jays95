@@ -1,6 +1,6 @@
-<!-- 🎬 Moving Matrix Header -->
+<!-- 🔵 AI Matrix Background -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Matrix background animation" />
+  <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" width="100%" alt="AI Matrix Background"/>
 </p>
 
 <!-- 🧠 ASCII Header -->
@@ -11,20 +11,16 @@
 ╚══════════════════════════════════════════════╝
   </pre>
 
-<!-- 📝 Typing SVG -->
+<!-- 🔡 Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F76308&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayson+Ranck+%F0%9F%91%8B;Flask+%7C+AI+Developer+%7C+Problem+Solver;Explore+my+Code+Cosmos!+%F0%9F%9A%80" alt="Typing SVG" />
-<br/><br/>
-
-<!-- 🧪 Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
 </div>
 
 ---
 
 # 🌌 About Me
-🚀 Passionate about **structure and innovation**, I’m currently building **Flask-based AI apps**.  
-🧠 I break down complex problems into elegant solutions.  
-⚾ Off the keyboard? I’m watching baseball or working on my swing.
+🚀 I thrive on **structure and innovation**, building **Flask AI apps**.  
+🧠 I enjoy breaking down complex problems into clear, elegant solutions.  
+⚾ Off the keyboard, I’m either watching baseball or perfecting my swing.
 
 ---
 
@@ -96,7 +92,7 @@
 
 ## 👀 Visitor Counter
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jays95&label=👀👀%20Visitors&color=F76308&icon=2&pretty=true&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jays95&label=👀👀%20Profile%20Views&color=F76308&style=for-the-badge" />
 </p>
 
 ---
@@ -108,4 +104,4 @@
   </a>
 </p>
 
-<!-- Made with ❤️ by Jayson | Powered by AI Innovation 🌌 -->
+<!-- Made with ❤️ by Jayson | AI-Powered GitHub Portfolio 🌌 -->
