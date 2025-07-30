@@ -1,7 +1,10 @@
-<!-- 🎯 AI Neural Background GIF (small with rounded edges) -->
+<!-- 🎯 AI Neural Background GIF (rounded edges) -->
 <p align="center">
-  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
+  <div style="display: inline-block; overflow: hidden; border-radius: 20px;">
+    <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" alt="AI Neural Matrix Background"/>
+  </div>
 </p>
+
 
 <!-- 🧠 ASCII Banner -->
 
