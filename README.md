@@ -1,10 +1,6 @@
+<!-- 🎯 AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <svg width="600" height="250">
-    <clipPath id="clip">
-      <rect width="600" height="250" rx="25" ry="25" />
-    </clipPath>
-    <image href="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" clip-path="url(#clip)" />
-  </svg>
+  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
 
 
