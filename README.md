@@ -1,6 +1,6 @@
 <!-- 🎯 AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
+  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
 
 <!-- 🧠 ASCII Banner -->
