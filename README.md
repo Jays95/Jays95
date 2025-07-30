@@ -79,12 +79,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jays95&theme=radical&no-frame=false&no-bg=false&margin-w=10&column=7"/>
 </p>
 
-## Pinned Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-flask-ai-app&theme=tokyonight&show_owner=true&border_radius=10" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-second-repo&theme=tokyonight&show_owner=true&border_radius=10" width="350"/>
-</p>
-
 ## Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Jays95&limit=5&theme=onedark&combine_all_yearly_contributions=true"/>
