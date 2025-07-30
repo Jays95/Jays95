@@ -1,11 +1,12 @@
-<!-- 🔵 AI Matrix Background -->
+<!-- 🔵 Futuristic AI Neural Background -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="AI Matrix Background"/>
+  <img src="https://i.pinimg.com/originals/df/2c/f0/df2cf0a260299f58b9fa4cfbdc3bb0ed.gif" width="100%" alt="AI Matrix Neural Background"/>
 </p>
 
 <!-- 🧠 ASCII Header -->
 <h3 align="center">
   
+
 
 </h3>
 
