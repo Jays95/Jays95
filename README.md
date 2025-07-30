@@ -1,6 +1,10 @@
 <div align="center">
-  <!-- Custom Banner -->
-  <h1 style="color: #F76308; font-family: Poppins, sans-serif; font-size: 36px; font-weight: 700;">Jayson Ranck's GitHub Universe 🌌</h1>
+  <!-- ASCII Art Border -->
+  <pre>
+  ╔══════════════════════════════════════════════╗
+  ║         Jayson Ranck's GitHub Universe 🌌    ║
+  ╚══════════════════════════════════════════════╝
+  </pre>
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F76308&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayson+Ranck+%F0%9F%91%8B;Flask+%7C+AI+Developer+%7C+Problem+Solver;Explore+my+Code+Cosmos!+%F0%9F%9A%80" alt="Typing SVG" />
   <br/><br/>
@@ -29,13 +33,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi&theme=light&perline=4" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=jinja,react,nodejs&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=jinja,react,nodejs,html&theme=light&perline=4" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase&theme=light&perline=4" />
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,github,figma&theme=light&perline=4" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=canva,postman,vscode&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=canva,postman,vscode,css&theme=light&perline=4" />
 </p>
 <br/><br/>
 
@@ -48,9 +52,15 @@
   <img src="https://raw.githubusercontent.com/Jays95/Jays95/main/assets/pie-chart-fallback.png" width="350" alt="Fallback Pie Chart"/>
   <img src="https://raw.githubusercontent.com/Jays95/Jays95/main/assets/graph-fallback.png" width="350" alt="Fallback Graph Image"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-F76308?style=flat-square&logo=python" width="150"/>
+  <img src="https://img.shields.io/badge/Flask-85%25-F76308?style=flat-square&logo=flask" width="150"/>
+  <img src="https://img.shields.io/badge/React-80%25-F76308?style=flat-square&logo=react" width="150"/>
+  <img src="https://img.shields.io/badge/Docker-75%25-F76308?style=flat-square&logo=docker" width="150"/>
+</p>
 <br/><br/>
 
-## Projects
+## Pinned Repositories
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-flask-ai-app&theme=github_dark&show_owner=true&border_radius=10&cache_seconds=1800" width="350"/>
   <br/>
