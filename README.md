@@ -1,7 +1,10 @@
-<!-- 🔵 Futuristic AI Neural Background -->
+<!-- 🔮 AI Neural Background Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/df/2c/f0/df2cf0a260299f58b9fa4cfbdc3bb0ed.gif" width="100%" alt="AI Matrix Neural Background"/>
+  <img src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="100%" alt="AI Neural Matrix Background"/>
 </p>
+
+<!-- 🧠 ASCII Banner -->
+
 
 <!-- 🧠 ASCII Header -->
 <h3 align="center">
