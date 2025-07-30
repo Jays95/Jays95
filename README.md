@@ -91,14 +91,6 @@
 </p>
 <br/>
 
-## Pinned Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-flask-ai-app&theme=github_dark&show_owner=true&border_radius=10" width="350"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jays95&repo=your-second-repo&theme=github_dark&show_owner=true&border_radius=10" width="350"/>
-</p>
-<br/>
-
 ## Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Jays95&limit=5&theme=onedark&combine_all_yearly_contributions=true" width="600"/>
