@@ -1,6 +1,6 @@
 <!-- 🔵 AI Matrix Background -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" width="100%" alt="AI Matrix Background"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fscitechdaily.com%2Fnew-artificial-intelligence-tool-accelerates-discovery-of-truly-new-materials%2F&psig=AOvVaw0ukDQt9ClDftHa7fH0etSD&ust=1753958647403000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjtxaiz5I4DFQAAAAAdAAAAABAV" width="100%" alt="AI Matrix Background"/>
 </p>
 
 <!-- 🧠 ASCII Header -->
