@@ -4,7 +4,7 @@ I'm someone who thrives on structure and challenge. Right now, I’m building a 
 I’m always breaking down problems and finding the clearest path forward, whether it's fine-tuning an alert system or negotiating across cultures. And when I’m off the keyboard, I’m usually catching a baseball game or talking strategy over a swing—it keeps me grounded and sharp.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayson-ranck-88a1a5253/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-ranck-88a1a5253//) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
