@@ -92,7 +92,7 @@
 
 ## 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jays95&label=👀👀%20Profile%20Views&color=F76308&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jays95&label=%20Profile%20Views&color=F76308&style=for-the-badge" />
 </p>
 
 ---
