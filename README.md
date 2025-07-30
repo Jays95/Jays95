@@ -1,7 +1,9 @@
-<!-- 🔮 AI Neural Background Banner -->
+<!-- 🎯 AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="100%" alt="AI Neural Matrix Background"/>
+  <img src="https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
+
+<!-- 🧠 ASCII Banner -->
 
 <!-- 🧠 ASCII Banner -->
 
