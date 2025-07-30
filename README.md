@@ -24,10 +24,10 @@
 ---
 
 # 🌌 About Me
-🚀 I thrive on **structure and innovation**, building **Flask AI apps**.  
-🧠 I enjoy breaking down complex problems into clear, elegant solutions.  
-⚾ Off the keyboard, I'm either watching baseball or perfecting my swing.
-
+I use Python to build user-focused applications—from Flask web apps to automation, data processing, and AI-driven tools. 
+I approach problems with structure and clarity, aiming to create reliable and effective solutions. 
+I’m committed to doing meaningful work and continuously advancing my technical skills. Outside of coding, 
+I enjoy spending time outdoors and being with my partner. Baseball is one of my hobbies, offering a steady rhythm and strategy that I appreciate in both life and work.
 ---
 
 ## 🌐 Connect with Me
