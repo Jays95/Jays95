@@ -1,6 +1,6 @@
 <!-- AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/74w1.gif" 
+  <img src="https://i.pinimg.com/originals/70/ee/cb/70eecbce58af3f458244e4904465fe5b.gif" 
        onerror="this.src='https://images.unsplash.com/photo-1516321318423-f9b35a8b8b8b'; console.error('GIF failed to load');" 
        width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
