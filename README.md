@@ -1,8 +1,20 @@
 <!-- AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/04/eb/a4/04eba44b89ec18680db3a64e44f9c9e9.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmY2M2YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ/giphy.gif" 
+       onerror="this.src='https://images.unsplash.com/photo-1516321318423-f9b35a8b8b8b'; console.error('GIF failed to load');" 
        width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
+
+<!-- ASCII Header -->
+<h3 align="center">
+  <pre>
+   ____ ___  _   _ _______ ____  
+  | __ )_ _| \ | | ____|  _ \ 
+  |  _ \| ||  \| |  _| | | | |
+  | |_) | || |\  | |___| |_| |
+  |____/___|_| \_|_____|____/
+  </pre>
+</h3>
 
 <!-- Typing Animation -->
 <p align="center">
