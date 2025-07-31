@@ -1,21 +1,22 @@
 <!--  AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/04/eb/a4/04eba44b89ec18680db3a64e44f9c9e9.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
+  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
 <!--  ASCII Banner -->
 <!--  ASCII Banner -->
 <!-- 🧠 ASCII Header -->
 <h3 align="center">
+
 </h3>
 <!--  Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F76308&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayson+Ranck+%F0%9F%91%8B;Flask+%7C+AI+Developer+%7C+Problem+Solver;Explore+my+Code+Cosmos!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 ---
-##  About Me
+#  About Me
 I use Python to build user-focused applications, from Flask web apps to automation, data processing, and AI-driven tools. 
 I approach problems with structure and clarity, aiming to create reliable and effective solutions. 
-I'm committed to doing meaningful work and continuously advancing my technical skills. Outside of coding, 
+I’m committed to doing meaningful work and continuously advancing my technical skills. Outside of coding, 
 I enjoy spending time outdoors and being with my partner. Baseball is one of my hobbies, offering a steady rhythm and strategy that I appreciate in both life and work.
 ---
 ##  Connect with Me
