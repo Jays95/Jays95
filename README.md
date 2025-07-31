@@ -4,17 +4,6 @@
        width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
 
-<!-- ASCII Header -->
-<h3 align="center">
-  <pre>
-   ____ ___  _   _ _______ ____  
-  | __ )_ _| \ | | ____|  _ \ 
-  |  _ \| ||  \| |  _| | | | |
-  | |_) | || |\  | |___| |_| |
-  |____/___|_| \_|_____|____/
-  </pre>
-</h3>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F76308&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayson+Ranck+%F0%9F%91%8B;Flask+%7C+AI+Developer+%7C+Problem+Solver;Explore+my+Code+Cosmos!+%F0%9F%9A%80" alt="Typing SVG" />
