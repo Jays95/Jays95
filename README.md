@@ -1,6 +1,6 @@
 <!-- AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQzYzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ/giphy.gif" 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fvia-giphy-in-2025--808466570646045069%2F&psig=AOvVaw19HvMO0QZgnqf9MZFRlEsP&ust=1754066438690000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiV9enE544DFQAAAAAdAAAAABAE" 
        width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
 
