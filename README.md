@@ -1,6 +1,6 @@
 <!-- AI Neural Background GIF (small with rounded edges) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif" 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUoeRHWAbYNXkDO60-M-9VRqJfrdCrCfoXw&s" 
        onerror="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif" 
        width="600" height="250" style="border-radius: 20px;" alt="AI Neural Matrix Background"/>
 </p>
